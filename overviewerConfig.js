@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1648588385",
+        "cacheTag": "1648676919",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,28 +41,28 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Alleron Nov 1 2021",
-            "zoomLevels": 6,
+            "name": "seks mashina",
+            "zoomLevels": 7,
             "defaultZoom": 1,
-            "maxZoom": 6,
+            "maxZoom": 7,
             "path": "world",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world - overworld",
-            "last_rendertime": 1648559024,
+            "last_rendertime": 1648673237,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
             "showlocationmarker": true,
             "center": [
                 16,
-                84,
+                89,
                 144
             ],
             "minZoom": 0,
             "spawn": [
                 16,
-                84,
+                89,
                 144
             ],
             "north_direction": 3
